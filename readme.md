@@ -1,4 +1,4 @@
-# ブラウザのマイクから音声を拾ってibm watsonのspeech to textを利用するプログラムをnodjsで書いた
+# ブラウザのマイクから音声を拾ってibm watsonのspeech to textをnodjsで利用する
 
 socketや音声ファイルの扱いについて分からなかったのでryojiysd氏のコードを利用させて頂きました。(https://github.com/ryojiysd/node-audio-stream)
 
